@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+minicord/__init__.py
+minicord/myfunctions.py
+minicord.egg-info/PKG-INFO
+minicord.egg-info/SOURCES.txt
+minicord.egg-info/dependency_links.txt
+minicord.egg-info/top_level.txt
